@@ -1,5 +1,5 @@
 # yt
- Custom Programming Language & Interpreter
+Custom Programming Language & Interpreter
 
-#Try it yourself:
-##Create a .yt file and write your own code
+# Try it yourself:
+## Create a .yt file and write your own code
